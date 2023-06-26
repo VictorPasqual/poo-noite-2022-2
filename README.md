@@ -1,4 +1,4 @@
-Códigos de Programação Orientada a Objetos com Java do Curso de ADS da FATEC
+## Códigos de Programação Orientada a Objetos com Java do Curso de ADS da FATEC
 
 Este repositório contém vários códigos desenvolvidos durante as aulas de Programação Orientada a Objetos com Java do curso de Análise e Desenvolvimento de Sistemas (ADS) da FATEC.
 Sobre o Curso
@@ -22,7 +22,7 @@ Os principais tópicos abordados no repositório incluem:
 
     Exceções: códigos que tratam o lançamento e o tratamento de exceções, garantindo a robustez e a segurança dos programas.
 
-Utilização dos Códigos
+## Utilização dos Códigos
 
 Os códigos disponibilizados neste repositório podem ser utilizados como material de estudo e referência para os estudantes do curso de ADS da FATEC, bem como para qualquer pessoa interessada em aprender ou aprimorar seus conhecimentos em Programação Orientada a Objetos com Java.
 
